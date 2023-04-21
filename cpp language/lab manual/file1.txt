@@ -1,0 +1,2 @@
+learning file handling !
+this file is created by c++ program !
